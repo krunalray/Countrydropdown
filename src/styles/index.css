@@ -1,0 +1,24 @@
+body {
+  background-color: #f9fafb;
+}
+#header-nav{
+  background-color: #fff;
+  border-bottom: 1px solid #DFE3E8;
+}
+.card{
+  box-shadow: 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px 0 rgba(63, 63, 68, 0.15);
+}
+
+.title{
+  font-size: 0.8rem;
+  margin-bottom: 0;  
+}
+.articleTitle{
+  font-size: 2rem;
+}
+.caption{
+  font-size: 0.9rem;
+}
+.byline{
+  font-size: 1rem;
+}
